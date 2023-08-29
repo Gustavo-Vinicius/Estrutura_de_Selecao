@@ -21,6 +21,7 @@ switch (opcao)
             Console.WriteLine("Nenhum dos números é múltiplo do outro.");
         break;
 
+        
     case 2:
         if (num1 % 2 == 0 && num2 % 2 == 0)
             Console.WriteLine("Os dois números são pares.");
